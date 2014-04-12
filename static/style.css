@@ -1,0 +1,18 @@
+.btn-container {
+  padding: 20px;
+}
+
+#record-btn {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+table {
+  font-size: 16px;
+  text-align: right;
+}
+
+button.close {
+  font-size: 32px;
+  margin-right: 10px;
+}

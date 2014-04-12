@@ -1,0 +1,20 @@
+{
+  "name": "clocker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Maelzer <mmaelzer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shoe": "0.0.15",
+    "ecstatic": "~0.5.1",
+    "hogan.js": "~2.0.0",
+    "underscore": "~1.6.0",
+    "domready": "~1.0.4",
+    "jquery": "~2.1.0",
+    "moment": "~2.5.1"
+  }
+}
